@@ -2,8 +2,6 @@
 
 A single-file web app for training your research brain. Designed for ML/AI researchers who want to read more actively, think more sharply, and actually remember what they learn.
 
-No backend. No account. One HTML file.
-
 ---
 
 ## What it is
